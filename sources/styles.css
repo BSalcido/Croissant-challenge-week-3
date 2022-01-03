@@ -22,7 +22,7 @@ img {
   border: 5px solid #ffffff;
   border-radius: 12px;
   max-width: 100%;
-  margin: 15px;
+  margin: 15px auto;
   display: block;
 }
 

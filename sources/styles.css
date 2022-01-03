@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+  background: #d0e4f5
+    url("https://ih1.redbubble.net/image.1204304999.2765/flat,128x,075,f-pad,128x128,f8f8f8.jpg")
+    repeat scroll -25px -25px;
+}
+
+h1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 50px;
+}
+
+p {
+  font-size: 20px;
+  background-color: #fffeff;
+}
+
+img {
+  border: 5px solid #ffffff;
+  border-radius: 12px;
+}
+
+a {
+  color: #df6700;
+  text-decoration: none;
+}
+
+.page-links {
+  padding: 30px;
+  text-shadow: 1px 1px 1px #bf5800;
+}
+
+footer {
+  margin-top: 100px;
+}
